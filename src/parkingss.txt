@@ -1,0 +1,6 @@
+123456 parkingA 200 25
+145896 parkingB 250 30
+265789 parkingC 310 70
+253647 parkingD 390 165
+789654 parkingE 400 256
+258963 parkingF 500 490
